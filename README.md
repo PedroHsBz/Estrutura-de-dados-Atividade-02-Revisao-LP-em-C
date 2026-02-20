@@ -46,4 +46,3 @@ Antes de compilar/rodar, você precisa ter:
 ## 💻 Executar o exercício
 - Atividade2_q1.cpp
 - Atividade2_q2.cpp
--Este repositório contém a Atividade 2 de exercícios da disciplina de Estrutura de Dados, desenvolvida em C. O projeto tem como objetivo reforçar os fundamentos da linguagem C e da lógica de programação, servindo como base para o estudo de estruturas de dados.
