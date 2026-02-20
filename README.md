@@ -1,65 +1,51 @@
 # Estrutura de dados
-# Atividade 03: Revisão LP em Java
-
-Este repositório contém a **Atividade 3 de exercícios da disciplina de Estrutura de Dados**, desenvolvida em **Java**.  
-O projeto dá continuidade ao estudo da linguagem Java e da lógica de programação, com foco no uso de **estruturas de repetição, condicionais e vetores (arrays)**.
-
-Cada exercício está implementado em uma **classe Java independente**, localizada no diretório `src`.
-
----
-
+# Atividade 02: Revisão LP em C
+Este repositório contém a Atividade 2 de exercícios da disciplina de Estrutura de Dados, desenvolvida em C. O projeto tem como objetivo reforçar os fundamentos da linguagem C e da lógica de programação, servindo como base para o estudo de estruturas de dados.
 ## 📚 Exercícios
 
-Os exercícios desta lista abordam conceitos fundamentais e intermediários da programação em Java, incluindo:
+Os exercícios abordam conceitos fundamentais da programação em C, como:
 
 - Entrada e saída de dados
-- Estruturas de repetição
-- Estruturas condicionais
-- Vetores (arrays)
-- Processamento de conjuntos de dados
+- Tipos primitivos
+- Operações aritméticas
+- Lógica sequencial
+- Estruturas de controle
 - Organização do código em classes
 
 ### Exercícios implementados
 
-- **Ex1.java**  
-  Exercício voltado ao processamento de dados informados pelo usuário, utilizando **vetores** e estruturas de repetição para resolver o problema proposto, com exibição dos resultados no console.
+- **Atividade2_q1.cpp**  
+  Exercício introdutório que realiza leitura de dados via teclado e executa operações básicas de processamento, com exibição do resultado no console.
 
-- **Ex2.java**  
-  Programa que trabalha com **conjuntos de valores armazenados em arrays**, aplicando lógica condicional e estruturas de controle para realizar cálculos e apresentar os resultados conforme solicitado.
-
+- **Atividade2_q2.cpp**  
+  Programa que simula um saque bancário. A partir de um valor inteiro informado pelo usuário, o sistema calcula a quantidade mínima de notas de R$ 50, R$ 20 e R$ 10 necessárias para compor o valor do saque.
+  
 ---
 
 ## 🚀 Recursos Implementados
 
 O projeto inclui:
 
-- Código **Java puro** (sem frameworks).
-- Organização por exercícios, cada um em sua própria classe.
+- Código **java**.
+- Estrutura típica de disciplina: cada exercício em sua classe própria.
 - Uso de:
-  - `Scanner` para leitura de dados via teclado;
+  - `Printf` para leitura de entrada;
   - Estruturas de repetição (`for`, `while`);
-  - Estruturas condicionais (`if/else`);
-  - Vetores (`arrays`);
-  - Organização lógica e legível do código.
+  - Condicionais (`if/else`);
+  - Manipulação de arrays e coleções;
+  - Métodos auxiliares para organização lógica do código.
 
 ---
 
-## 🧩 Estrutura de Pastas
-
-```text
-├── src/
-│ ├── Ex1.java
-│ └── Ex2.java
-├── .gitignore
-└── README.md
-```
 ## 🛠️ Pré-requisitos
 
 Antes de compilar/rodar, você precisa ter:
 
-- **Java JDK 11+** instalado
-- Uma IDE ou editor de código (IntelliJ)
+- Uma IDE ou editor de código (Dev-C++, VS Code)
 
 ## 💻 Executar o exercício
-- java -cp src Ex1
-- java -cp src Ex2
+- Atividade2_q1.cpp
+- Atividade2_q2.cpp
+
+
+
