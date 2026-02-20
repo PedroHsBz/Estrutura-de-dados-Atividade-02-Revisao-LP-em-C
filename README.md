@@ -15,24 +15,25 @@ Os exercícios abordam conceitos fundamentais da programação em C, como:
 ### Exercícios implementados
 
 - **Atividade2_q1.cpp**  
-  Exercício introdutório que realiza leitura de dados via teclado e executa operações básicas de processamento, com exibição do resultado no console.
+Programa que recebe um valor inteiro que representa o **tempo total em segundos**, apos receber esse valor o   programa converte esse **total em segundos** em **Horas, Minutos e Segundos**.
+O exemplo utilizado é 3665 segundos, que resulta em 1h, 1min e 5.
 
 - **Atividade2_q2.cpp**  
-  Programa que simula um saque bancário. A partir de um valor inteiro informado pelo usuário, o sistema calcula a quantidade mínima de notas de R$ 50, R$ 20 e R$ 10 necessárias para compor o valor do saque.
-  
+Programa que recebe um vetor inteiro e verifica se dentro desse vetor os elementos são distintos, apos a verificação o programa exibe se ha ou não elementos repetidos dentro do vetor fornecido.
+
 ---
 
 ## 🚀 Recursos Implementados
 
 O projeto inclui:
 
-- Código **java**.
-- Estrutura típica de disciplina: cada exercício em sua classe própria.
+- Código **C**.
+- Estrutura típica de disciplina: 
 - Uso de:
   - `Printf` para leitura de entrada;
   - Estruturas de repetição (`for`, `while`);
   - Condicionais (`if/else`);
-  - Manipulação de arrays e coleções;
+  - Manipulação de vetores;
   - Métodos auxiliares para organização lógica do código.
 
 ---
